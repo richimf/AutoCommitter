@@ -14,4 +14,9 @@ feature/Branch/[Id-Branch]_Branch_Name
 [ID-1234][BugFix][Ticket12] Commit description.
 ```
 
+# Docs
+
+[Apple Docs](https://developer.apple.com/documentation/foundation/nstask)
+
+[Example Gist](https://gist.github.com/Seasons7/836d3676884a40c8c98a)
 
